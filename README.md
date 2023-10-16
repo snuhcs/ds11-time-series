@@ -1,4 +1,4 @@
-# Time-series Course 2023
+# Time-series Course
 ### Seoul National University
 ### Prof. Youngki Lee
 
